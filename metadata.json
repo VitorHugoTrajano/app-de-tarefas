@@ -1,0 +1,5 @@
+{
+  "name": "TrackMaster",
+  "description": "A robust task and habit tracking application with local persistence using IndexedDB.",
+  "requestFramePermissions": []
+}
